@@ -1,1 +1,0 @@
-## 0x is protocol on top of ethereum blockchain.
